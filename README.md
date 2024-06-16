@@ -55,3 +55,13 @@ MVPリリース時
 - ネタバレ有無によるテキストを任意で隠せる機能
 - ブックマーク機能
 - カレンダー機能(メモページに追加。視聴開始日と終了日の記録)
+
+# ■ 使用予定の技術スタック
+- Ruby
+- Ruby on Rails
+- HTML/CSS/JavaScript
+ - Bootstrap
+- Docker
+- Heroku
+ - PostgreSQL
+
