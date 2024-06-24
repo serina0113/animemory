@@ -60,8 +60,11 @@ MVPリリース時
 - Ruby
 - Ruby on Rails
 - HTML/CSS/JavaScript
- - Bootstrap
+  - Bootstrap
 - Docker
 - Heroku
- - PostgreSQL
+  - PostgreSQL
+
+# ■ 画面遷移図
+https://www.figma.com/design/Hwk9Kqcdw3OENX6FpB5F6Q/animemory?node-id=0-1&t=eFQwKvttyleiGRxf-0
 
