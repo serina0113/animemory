@@ -69,4 +69,4 @@ MVPリリース時
 https://www.figma.com/design/Hwk9Kqcdw3OENX6FpB5F6Q/animemory?node-id=0-1&t=oBwCDVBT4pidTWeb-1
 
 # ■ ER図
-[![Image from Gyazo](https://i.gyazo.com/7d781d13c31393b6079fef1e980aca03.jpg)](https://gyazo.com/7d781d13c31393b6079fef1e980aca03)
+[![Image from Gyazo](https://i.gyazo.com/da29de3280a8cb906b913d477f189983.jpg)](https://gyazo.com/da29de3280a8cb906b913d477f189983)
