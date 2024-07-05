@@ -68,3 +68,5 @@ MVPリリース時
 # ■ 画面遷移図
 https://www.figma.com/design/Hwk9Kqcdw3OENX6FpB5F6Q/animemory?node-id=0-1&t=oBwCDVBT4pidTWeb-1
 
+# ■ ER図
+[![Image from Gyazo](https://i.gyazo.com/d974ef51d6a78a01e869dda354f19f05.jpg)](https://gyazo.com/d974ef51d6a78a01e869dda354f19f05)
