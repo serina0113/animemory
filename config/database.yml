@@ -81,9 +81,15 @@ test:
 # Read https://guides.rubyonrails.org/configuring.html#configuring-a-database
 # for a full overview on how database connection configuration can be specified.
 #
+# production:
+#   <<: *default
+#   database: animemory_database
+#   username: postgres
+#   password: password
+#   host: db
+
 production:
-  <<: *default
-  database: animemory_production
-  username: postgres
-  password: password
-  host: db
+  adapter: postgresql
+  encoding: unicode
+  database: <%= ENV['DATABASE_URL'] %>
+  pool: 5
